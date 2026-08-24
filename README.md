@@ -58,6 +58,7 @@
 
 | Projeto | Descrição | Tecnologias Principais | Acesso / Demo |
 | :--- | :--- | :--- | :--- |
+| **[S.O.S. Baterias (WhatsApp Automation)](https://github.com/spiritstonesrafa-ux/-sos-baterias-whatsapp-demo)** | Plataforma de atendimento WhatsApp, motor de debounce no Redis, resolução @lid, telemetria em tempo real e painel administrativo. | Node.js, n8n, Evolution API, Redis, PostgreSQL, SQLite (WAL), Docker | [💻 Repositório Demo](https://github.com/spiritstonesrafa-ux/-sos-baterias-whatsapp-demo) |
 | **[BolsoZen (Self-Hosted)](https://github.com/spiritstonesrafa-ux/bolsozen-selfhosted)** | Assistente financeiro full-stack mobile-first com NLP determinístico, snapshots de fatura e +670 testes automatizados. | React 19, TanStack Start, Supabase RLS, Docker, Playwright | [🌐 Demo Online](https://bolsozen-site-public.lovable.app) |
 | **[Calculadora de IMC por Idade](https://github.com/spiritstonesrafa-ux/Site-de-IMC)** | Triagem nutricional científica com motor matemático LMS da OMS (escore-z pediátrico), SISVAN e zero telemetria. | Vanilla JS (ES Modules), Node:test, A11y, GitHub Actions CI | [🌐 Demo Online](https://calculadora-imc-saude.spiritstonesrafa.chatgpt.site) |
 | **[EcoTrip (Calculadora de Carbono)](https://github.com/spiritstonesrafa-ux/CalculadoraCarbono)** | Simulador multimodal de pegada de carbono ($CO_2$) em deslocamentos urbanos/aéreos com gráficos e equivalências. | React 19, TypeScript, Recharts, Zod, Vitest | [🌐 Demo Online](https://ecotrip-sustentavel.spiritstonesrafa.chatgpt.site) |
